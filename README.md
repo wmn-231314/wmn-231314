@@ -1,4 +1,6 @@
 ### Hi there 👋
+### ✨ Trying to start my blog: https://rebwmn.zone
+### 📫 How to reach me: 19301050@bjtu.edu.cn
 
 <!--
 **wmn-231314/wmn-231314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
