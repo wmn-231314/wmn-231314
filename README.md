@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ✨ Trying to write my blog: https://rebwmn.zone
+- ✨ Trying to write my blog: https://notes.rebwmn.zone
 - 📫 How to reach me: rebecca231314@gmail.com
 
 <!--
