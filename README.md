@@ -1,6 +1,6 @@
 ### Hi there 👋
 - ✨ Trying to write my blog: https://rebwmn.zone
-- 📫 How to reach me: 19301050@bjtu.edu.cn
+- 📫 How to reach me: rebecca231314@gmail.com
 
 <!--
 **wmn-231314/wmn-231314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
