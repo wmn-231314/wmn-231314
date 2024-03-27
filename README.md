@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: rebecca231314@gmail.com
+- 📫 How to reach me: mengninw@andrew.cmu.edu
 - 🔭 I’m currently studying 3d reconstruction, which is reaaaaaaaally coooooool~
 
 <!--
