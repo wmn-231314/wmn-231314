@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: mengninw@andrew.cmu.edu
-- 🔭 I’m currently studying 3d reconstruction, which is reaaaaaaaally coooooool~
+- 🔭 I’m currently studying 3d vision, which is really coooooool~
 
 <!--
 **wmn-231314/wmn-231314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
