@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: mengninw@andrew.cmu.edu
+- 📫 How to reach me: mengningwu23@gmail.com
 
 <!--
 **wmn-231314/wmn-231314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
